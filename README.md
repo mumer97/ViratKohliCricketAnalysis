@@ -2,7 +2,7 @@
 Analysed the data for cricketer Virat Kohli and his stats over the years from ESPNcricinfo and used Python to visualize
 some interesting data insights after filtering and cleaning the data (replacing missing values)
 
-1- runs scored against each opposition
+1- Runs scored against each opposition
 
 2- Result of matches (won/lost) when Virat scored over 50
 
