@@ -1,5 +1,6 @@
 # ViratKohliCricketAnalysis
-Analysed the data for cricketer virat kohli and his stats over the years from ESPNcricinfo and using Python to visualize some interesting data insights after filtering and cleaning the data (replacing missing values)
+Analysed the data for cricketer virat kohli and his stats over the years from ESPNcricinfo and using Python to visualize
+some interesting data insights after filtering and cleaning the data (replacing missing values)
 
 1- runs scored against each oppostion
 2- Result of matches (won/lost) when virat scored over 50
